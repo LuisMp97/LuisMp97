@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Luis, a GIS analyst based in Canada
+
+I love to do GIS analysis using python mainly
 <!--
 **LuisMp97/LuisMp97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
