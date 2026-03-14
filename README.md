@@ -1,8 +1,17 @@
 ## Hi there 👋
 
-I'm Luis, a GIS analyst based in Canada
+I'm Luis, a GIS professional and Environmental Engineer based in Canada, passionate about turning spatial data into meaningful insights
 
-I love to do GIS analysis using python mainly
+🔭 I’m currently working on:
+- GIS analysis and Cartography
+- Python and Automation
+- Remote Sensing
+- Field Data Collection
+
+
+🌱 I’m currently learning:
+- Advanced arcPy and cstom geoprocessing tools
+- LiDAR point cloud applications
 <!--
 **LuisMp97/LuisMp97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
